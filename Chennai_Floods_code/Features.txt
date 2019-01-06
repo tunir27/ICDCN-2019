@@ -1,0 +1,13 @@
+Things to consider as features:-
+
+for linguistic until now we get
+sentimentality score
+
+
+for structural
+no of retweets
+no of followers of user
+
+
+time for which the tweet persisted in network
+time of first retweet 

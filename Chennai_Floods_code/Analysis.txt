@@ -1,0 +1,60 @@
+topic:-crocodile 
+Cluster 2
+highest degree ('Sibi_Sathyaraj', 97) // Prominent person
+overall followers 185363
+
+t=404
+s=66
+o=300
+
+0.052329
+
+topic:-Chembarambakkam lake (Rumour) 
+Cluster 2
+highest degree ('ChennaiConnect',121) // News Channel [not currently persent]
+overall followers 29406
+
+t=487
+s=50
+o=220
+
+0.4114806502074407
+
+topic:-little girl lost(Non Rumour)
+Cluster 3 
+highest degree ('shrutihaasan', 6000) // Prominent person
+overall followers 3225040
+
+t=6427
+s=16
+o=46
+
+0.1880286756133257
+
+topic:-passport lost or damaged (Non Rumour)
+Cluster 5 
+highest degree ('SushmaSwaraj', 13104) // Prominent person
+overall followers 3905308
+
+t=15272
+s=25
+o=98
+
+0.3355433169419672
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crocodile first tweet belief 2015-12-01 17:29:58
+non belief 2015-12-02 22:08:20
